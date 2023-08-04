@@ -10,7 +10,7 @@ Please refer to this [medium blog post](https://ahmed-sabir.medium.com/review-de
 | [Learning-to-re-rank](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.723.6492&rep=rep1&type=pdf)| SIGIR 2015 | NA |
 | [Decomposition and Composition](https://arxiv.org/pdf/1602.07019.pdf) | COLING 2016 | NA |
 | [Attention-Based CNN](https://arxiv.org/pdf/1512.05193.pdf) | TACL 2016 | [link](https://github.com/galsang/ABCNN)| 
-| [OCRcorretion semantic relatedness](https://arxiv.org/pdf/1909.07950.pdf)  | EMNLP 2019 | [link](https://github.com/ahmedssabir/Semantic-Relatedness-Based-Reranker-for-Text-Spotting) |
+| [OCR-correction semantic relatedness](https://arxiv.org/pdf/1909.07950.pdf)  | EMNLP 2019 | [link](https://github.com/ahmedssabir/Semantic-Relatedness-Based-Reranker-for-Text-Spotting) |
 
 ## Long Short-Term Memory
 
