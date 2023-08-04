@@ -50,5 +50,5 @@ Please refer to this [medium blog post](https://ahmed-sabir.medium.com/review-de
 | [Sentence-level](https://arxiv.org/pdf/1908.10084.pdf)  |  COLING 2022 | [link](https://github.com/ahmedssabir/Belief-Revision-Score/tree/main)  |  [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ipTLmZxLLU5aNUQQvSHJRrsetQpg_31C?usp=sharing) |
 
 
-# Add new paper
+# Adding new paper
 Please open an issue for adding recent work.
