@@ -28,13 +28,13 @@ Review: Deep Learning for Sentence Semantic Similarity
 |-------|----  |--------|     
 | BERT  | 2018 |  |    |
 | Sentence-BERT  | 2020 |    |
-| SimCSE-BERT    | 2020 |    |
-| [Sentence-T5](https://arxiv.org/pdf/2108.08877.pdf)    | 2020 |  [link](https://tfhub.dev/google/collections/sentence-t5/1) |
-| [Self-Supervised Mirror-BERT](https://arxiv.org/pdf/2104.08027.pdf)| EMNLP2021 | [link](https://github.com/cambridgeltl/mirror-bert) |
+| [SimCSE-BERT](https://arxiv.org/pdf/2104.08821.pdf)    | EMNLP 2021 |  [link](https://github.com/princeton-nlp/SimCSE)  |
+| [Self-Supervised Mirror-BERT](https://arxiv.org/pdf/2104.08027.pdf)| EMNLP 2021 | [link](https://github.com/cambridgeltl/mirror-bert) |
 | [Self-Guided Contrastive Learning-BERT](https://arxiv.org/pdf/2106.07345.pdf)| ACL2021| [link](https://github.com/galsang/SG-BERT) |
-| [ConSERT-Self-Supervised-BERT](https://arxiv.org/pdf/2105.11741.pdf) | ACL2021  | [link](https://github.com/yym6472/ConSERT) | 
-| [TRANS-ENCODER-unsupervised](https://arxiv.org/pdf/2109.13059.pdf) | ICLR2022 | [link](https://github.com/amzn/trans-encoder) |
-| [InfoCSE](https://arxiv.org/pdf/2210.06432.pdf) | EMNLP2022 Findings | [link](https://github.com/caskcsg/sentemb/tree/main/InfoCSE) | 
+| [ConSERT-Self-Supervised-BERT](https://arxiv.org/pdf/2105.11741.pdf) | ACL 2021  | [link](https://github.com/yym6472/ConSERT) |
+| [Sentence-T5](https://arxiv.org/pdf/2108.08877.pdf)    | ACL 2022 |  [link](https://tfhub.dev/google/collections/sentence-t5/1) |
+| [TRANS-ENCODER-unsupervised](https://arxiv.org/pdf/2109.13059.pdf) | ICLR 2022 | [link](https://github.com/amzn/trans-encoder) |
+| [InfoCSE](https://arxiv.org/pdf/2210.06432.pdf) | EMNLP 2022 Findings | [link](https://github.com/caskcsg/sentemb/tree/main/InfoCSE) | 
 
 
 
