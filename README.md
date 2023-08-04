@@ -1,5 +1,7 @@
 # Review: Deep Learning for Sentence Semantic Similarity
 
+[![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://ahmed-sabir.medium.com/review-deep-learning-for-sentence-semantic-similarity-80f4c1030380)
+
 Please refer to this [medium blog post](https://ahmed-sabir.medium.com/review-deep-learning-for-sentence-semantic-similarity-80f4c1030380) for more detail.
 
 ## Convolutional Neural Network
