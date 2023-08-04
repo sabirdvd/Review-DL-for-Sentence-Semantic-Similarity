@@ -1,18 +1,22 @@
-# Review-DL-for-Sentence-Semantic-Similarity
-Review: Deep Learning for Sentence Semantic Similarity
+# Review: Deep Learning for Sentence Semantic Similarity
+
+Please refer to this [medium blog post](https://ahmed-sabir.medium.com/review-deep-learning-for-sentence-semantic-similarity-80f4c1030380) for more detail.
 
 # Convolutional Neural Network
 
 | paper | link | github |
 |-------|------|--------|
-
+| [Learning-to-re-rank](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.723.6492&rep=rep1&type=pdf)| SIGIR 2015 | NA |
+| [Decomposition and Composition](https://arxiv.org/pdf/1602.07019.pdf) | COLING 2016 | NA |
+| [OCRcorretion semantic relatedness](https://arxiv.org/pdf/1909.07950.pdf)  | EMNNLP 2019 | [link](https://github.com/ahmedssabir/Semantic-Relatedness-Based-Reranker-for-Text-Spotting) |
 
 # Long Short-Term Memory
 
 | paper |  conference | github |
 |-------|------|--------|
-| Man   |      |        |
-| ELMo  |      |        |
+| [Manhattan LSTM](https://ojs.aaai.org/index.php/AAAI/article/view/10350)   | AAAI 2016        |   [link](https://github.com/MahmoudWahdan/Siamese-Sentence-Similarity)     |
+| [ELMo](https://arxiv.org/pdf/1802.05365.pdf)  |      |        |
+| [LSTMEmed](https://aclanthology.org/P19-1165.pdf) | ACL 2019| [link](https://github.com/iiacobac/LSTMEmbed)|
 
 # Attention Mechanism
 
