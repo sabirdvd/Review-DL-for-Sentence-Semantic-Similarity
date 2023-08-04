@@ -1,3 +1,6 @@
+# original code  
+# https://github.com/vishnuverse/ELMO-Sentence-Similarity/tree/master
+
 import tensorflow as tf
 import tensorflow_hub as hub
 
