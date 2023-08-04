@@ -41,6 +41,7 @@ Please refer to this [medium blog post](https://ahmed-sabir.medium.com/review-de
 | [Sentence-T5](https://arxiv.org/pdf/2108.08877.pdf)    | ACL 2022 |  [link](https://tfhub.dev/google/collections/sentence-t5/1) |
 | [TRANS-ENCODER-unsupervised](https://arxiv.org/pdf/2109.13059.pdf) | ICLR 2022 | [link](https://github.com/amzn/trans-encoder) |
 | [InfoCSE](https://arxiv.org/pdf/2210.06432.pdf) | EMNLP 2022 Findings | [link](https://github.com/caskcsg/sentemb/tree/main/InfoCSE) | 
+| [Sentence Embeddings from AI Feedback](https://arxiv.org/abs/2305.01918) | ACL 2023 Findings | [link](https://github.com/xiami2019/CLAIF) |
 
 ## Getting Probability from Cosine similarity 
 | paper | conference |github | Colab |
