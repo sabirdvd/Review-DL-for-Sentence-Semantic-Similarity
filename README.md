@@ -27,6 +27,7 @@ Please refer to this [medium blog post](https://ahmed-sabir.medium.com/review-de
 | paper |  conference | github |
 |-------|------|--------|
 |[Universal Sentence Encoder](https://arxiv.org/pdf/1803.11175.pdf)|EMNLP 2018 SysDemo | [link](https://github.com/MartinoMensio/spacy-universal-sentence-encoder)
+| [Simple Transformer Distillation](https://dl.acm.org/doi/pdf/10.1145/3539618.3592063) |  SIGIR 2023 | NA |
 
 ## BERT 
 
@@ -42,7 +43,6 @@ Please refer to this [medium blog post](https://ahmed-sabir.medium.com/review-de
 | [TRANS-ENCODER-unsupervised](https://arxiv.org/pdf/2109.13059.pdf) | ICLR 2022 | [link](https://github.com/amzn/trans-encoder) |
 | [InfoCSE](https://arxiv.org/pdf/2210.06432.pdf) | EMNLP 2022 Findings | [link](https://github.com/caskcsg/sentemb/tree/main/InfoCSE) | 
 | [Sentence Embeddings from AI Feedback](https://arxiv.org/abs/2305.01918) | ACL 2023 Findings | [link](https://github.com/xiami2019/CLAIF) |
-| [Simple Transformer Distillation](https://dl.acm.org/doi/pdf/10.1145/3539618.3592063) |  SIGIR 2023 | NA |
 | [RankCSE](https://arxiv.org/pdf/2305.16726.pdf) | ArXiv 26 May 2023| NA | 
 
 ## Getting Probability from Cosine similarity 
