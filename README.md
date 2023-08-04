@@ -24,9 +24,9 @@ Please refer to this [medium blog post](https://ahmed-sabir.medium.com/review-de
 
 
 ## Transformer
-| paper | github |
-|-------|--------|
-|[Universal Sentence Encoder](https://arxiv.org/pdf/1803.11175.pdf)| [link](https://github.com/MartinoMensio/spacy-universal-sentence-encoder)
+| paper |  conference | github |
+|-------|------|--------|
+|[Universal Sentence Encoder](https://arxiv.org/pdf/1803.11175.pdf)|EMNLP 2018 SysDemo | [link](https://github.com/MartinoMensio/spacy-universal-sentence-encoder)
 
 ## BERT 
 
