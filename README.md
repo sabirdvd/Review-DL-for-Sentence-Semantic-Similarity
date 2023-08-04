@@ -15,7 +15,7 @@ Please refer to this [medium blog post](https://ahmed-sabir.medium.com/review-de
 | paper |  conference | github |
 |-------|------|--------|
 | [Manhattan LSTM](https://ojs.aaai.org/index.php/AAAI/article/view/10350)   | AAAI 2016        |   [link](https://github.com/MahmoudWahdan/Siamese-Sentence-Similarity)     |
-| [ELMo](https://arxiv.org/pdf/1802.05365.pdf)  |      |        |
+| [ELMo](https://arxiv.org/pdf/1802.05365.pdf)  |  NAACL 2018    |    [link]()    |
 | [LSTMEmed](https://aclanthology.org/P19-1165.pdf) | ACL 2019| [link](https://github.com/iiacobac/LSTMEmbed)|
 
 # Attention Mechanism
