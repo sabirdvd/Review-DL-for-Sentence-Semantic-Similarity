@@ -2,15 +2,15 @@
 
 Please refer to this [medium blog post](https://ahmed-sabir.medium.com/review-deep-learning-for-sentence-semantic-similarity-80f4c1030380) for more detail.
 
-# Convolutional Neural Network
+## Convolutional Neural Network
 
 | paper | link | github |
 |-------|------|--------|
 | [Learning-to-re-rank](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.723.6492&rep=rep1&type=pdf)| SIGIR 2015 | NA |
 | [Decomposition and Composition](https://arxiv.org/pdf/1602.07019.pdf) | COLING 2016 | NA |
-| [OCRcorretion semantic relatedness](https://arxiv.org/pdf/1909.07950.pdf)  | EMNNLP 2019 | [link](https://github.com/ahmedssabir/Semantic-Relatedness-Based-Reranker-for-Text-Spotting) |
+| [OCRcorretion semantic relatedness](https://arxiv.org/pdf/1909.07950.pdf)  | EMNLP 2019 | [link](https://github.com/ahmedssabir/Semantic-Relatedness-Based-Reranker-for-Text-Spotting) |
 
-# Long Short-Term Memory
+## Long Short-Term Memory
 
 | paper |  conference | github |
 |-------|------|--------|
@@ -18,17 +18,14 @@ Please refer to this [medium blog post](https://ahmed-sabir.medium.com/review-de
 | [ELMo](https://arxiv.org/pdf/1802.05365.pdf)  |  NAACL 2018    |    [link]()    |
 | [LSTMEmed](https://aclanthology.org/P19-1165.pdf) | ACL 2019| [link](https://github.com/iiacobac/LSTMEmbed)|
 
-# Attention Mechanism
 
-| paper | link | github |
-|-------|------|--------|
-
-
-# Transformer
+## Transformer
 | paper | github |
 |-------|--------|
 |[Universal Sentence Encoder](https://arxiv.org/pdf/1803.11175.pdf)| [link](https://github.com/MartinoMensio/spacy-universal-sentence-encoder)
-# BERT 
+
+## BERT 
+
 | paper | conference |github | 
 |-------|----  |--------|     
 | BERT  | 2018 |  |    |
@@ -41,9 +38,13 @@ Please refer to this [medium blog post](https://ahmed-sabir.medium.com/review-de
 | [TRANS-ENCODER-unsupervised](https://arxiv.org/pdf/2109.13059.pdf) | ICLR 2022 | [link](https://github.com/amzn/trans-encoder) |
 | [InfoCSE](https://arxiv.org/pdf/2210.06432.pdf) | EMNLP 2022 Findings | [link](https://github.com/caskcsg/sentemb/tree/main/InfoCSE) | 
 
+## Getting Probability from Cosine similarity 
+| paper | conference |github | 
+|-------|----|--------|     
+| [Word-level](https://arxiv.org/pdf/1810.12738.pdf)  | ACCV 2018 | [link](https://github.com/ahmedssabir/Visual-Semantic-Relatedness-with-Word-Embedding)     |
+| [Word-level](https://arxiv.org/pdf/1908.10084.pdf)  | MVA 2023 | NA    |
+| [Sentence-level](https://arxiv.org/pdf/1908.10084.pdf)  |  COLING 2022 | [link](https://github.com/ahmedssabir/Belief-Revision-Score/tree/main)  |
 
 
-# BERT unsupervised
-
-| paper | link | github |
-|-------|------|--------|
+# remarks
+please open an issue if want to add recent work 
