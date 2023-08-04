@@ -33,8 +33,8 @@ Review: Deep Learning for Sentence Semantic Similarity
 | Self-Supervised Mirror-BERT| 2022 | |
 |Self-Guided Contrastive Learning-BERT| | 
 | [ConSERT-Self-Supervised-BERT](https://arxiv.org/pdf/2105.11741.pdf) | ACL2021  | [link](https://github.com/yym6472/ConSERT) | 
-| TRANS-ENCODER-unsupervised| |  | 
-| [InfoCSE](https://arxiv.org/pdf/2210.06432.pdf) | EMNLP2022-Fin | [link](https://github.com/caskcsg/sentemb/tree/main/InfoCSE) | 
+| [TRANS-ENCODER-unsupervised|](https://arxiv.org/pdf/2109.13059.pdf) | ICLR2022 | [link](https://github.com/amzn/trans-encoder) |
+| [InfoCSE](https://arxiv.org/pdf/2210.06432.pdf) | EMNLP2022 Findings | [link](https://github.com/caskcsg/sentemb/tree/main/InfoCSE) | 
 
 
 
