@@ -43,11 +43,11 @@ Please refer to this [medium blog post](https://ahmed-sabir.medium.com/review-de
 | [InfoCSE](https://arxiv.org/pdf/2210.06432.pdf) | EMNLP 2022 Findings | [link](https://github.com/caskcsg/sentemb/tree/main/InfoCSE) | 
 
 ## Getting Probability from Cosine similarity 
-| paper | conference |github | 
-|-------|----|--------|     
-| [Word-level](https://arxiv.org/pdf/1810.12738.pdf)  | ACCV 2018 | [link](https://github.com/ahmedssabir/Visual-Semantic-Relatedness-with-Word-Embedding)     |
-| [Word-level](https://arxiv.org/pdf/1908.10084.pdf)  | MVA 2023 | NA    |
-| [Sentence-level](https://arxiv.org/pdf/1908.10084.pdf)  |  COLING 2022 | [link](https://github.com/ahmedssabir/Belief-Revision-Score/tree/main)  |
+| paper | conference |github | Colab |
+|-------|----|--------|--------| 
+| [Word-level](https://arxiv.org/pdf/1810.12738.pdf)  | ACCV 2018 | [link](https://github.com/ahmedssabir/Visual-Semantic-Relatedness-with-Word-Embedding)     | NA |
+| [Word-level](https://arxiv.org/pdf/1908.10084.pdf)  | MVA 2023 | NA    | NA |
+| [Sentence-level](https://arxiv.org/pdf/1908.10084.pdf)  |  COLING 2022 | [link](https://github.com/ahmedssabir/Belief-Revision-Score/tree/main)  |  [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ipTLmZxLLU5aNUQQvSHJRrsetQpg_31C?usp=sharing) |
 
 
 # remarks
