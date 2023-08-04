@@ -4,7 +4,7 @@ Please refer to this [medium blog post](https://ahmed-sabir.medium.com/review-de
 
 ## Convolutional Neural Network
 
-| paper | link | github |
+| paper | conference | github |
 |-------|------|--------|
 | [Multi-Perspective Sentence Similarity](https://aclanthology.org/D15-1181.pdf) | EMNLP 2015 | NA |
 | [Learning-to-re-rank](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.723.6492&rep=rep1&type=pdf)| SIGIR 2015 | NA |
