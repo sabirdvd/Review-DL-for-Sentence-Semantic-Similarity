@@ -51,4 +51,4 @@ Please refer to this [medium blog post](https://ahmed-sabir.medium.com/review-de
 
 
 # Add new paper
-please open an issue if want to add recent work 
+Please open an issue for adding recent work.
