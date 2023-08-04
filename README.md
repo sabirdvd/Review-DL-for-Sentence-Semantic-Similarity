@@ -9,9 +9,10 @@ Review: Deep Learning for Sentence Semantic Similarity
 
 # Long Short-Term Memory
 
-| paper | link | github |
+| paper |  conference | github |
 |-------|------|--------|
-
+| Man   |      |        |
+| ELMo  |      |        |
 
 # Attention Mechanism
 
