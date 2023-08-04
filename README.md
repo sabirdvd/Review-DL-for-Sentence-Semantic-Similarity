@@ -29,7 +29,7 @@ Review: Deep Learning for Sentence Semantic Similarity
 | BERT  | 2018 |  |    |
 | Sentence-BERT  | 2020 |    |
 | SimCSE-BERT    | 2020 |    |
-| Sentence-T5    | 2020 |   |
+| [Sentence-T5](https://arxiv.org/pdf/2108.08877.pdf)    | 2020 |  [link](https://tfhub.dev/google/collections/sentence-t5/1) |
 | [Self-Supervised Mirror-BERT](https://arxiv.org/pdf/2104.08027.pdf)| EMNLP2021 | [link](https://github.com/cambridgeltl/mirror-bert) |
 | [Self-Guided Contrastive Learning-BERT](https://arxiv.org/pdf/2106.07345.pdf)| ACL2021| [link](https://github.com/galsang/SG-BERT) |
 | [ConSERT-Self-Supervised-BERT](https://arxiv.org/pdf/2105.11741.pdf) | ACL2021  | [link](https://github.com/yym6472/ConSERT) | 
