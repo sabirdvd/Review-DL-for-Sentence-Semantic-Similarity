@@ -32,7 +32,7 @@ Please refer to this [medium blog post](https://ahmed-sabir.medium.com/review-de
 
 | paper | conference |github | 
 |-------|----  |--------|     
-| BERT  | 2018 |  |    |
+| [BERT](https://arxiv.org/abs/1810.04805)  | NAACL 2018 | [link](https://keras.io/examples/nlp/semantic_similarity_with_bert/)   |
 | [Sentence-BERT](https://arxiv.org/pdf/1908.10084.pdf)  | EMNLP 2019 | [link](https://github.com/UKPLab/sentence-transformers)     |
 | [SimCSE-BERT](https://arxiv.org/pdf/2104.08821.pdf)    | EMNLP 2021 |  [link](https://github.com/princeton-nlp/SimCSE)  |
 | [Self-Supervised Mirror-BERT](https://arxiv.org/pdf/2104.08027.pdf)| EMNLP 2021 | [link](https://github.com/cambridgeltl/mirror-bert) |
