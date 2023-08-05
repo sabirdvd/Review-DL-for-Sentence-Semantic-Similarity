@@ -1,6 +1,6 @@
 # Review: Deep Learning for Sentence Semantic Similarity
 
-#### updated 4 Aug 2023
+[![update - 23-Aug-2023](https://img.shields.io/badge/update-23--Aug--2023-2ea44f)](https://)
 <!--
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://ahmed-sabir.medium.com/review-deep-learning-for-sentence-semantic-similarity-80f4c1030380)
 -->
